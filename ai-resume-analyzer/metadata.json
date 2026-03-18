@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "A full-stack AI-powered Resume Analyzer Web Application with role-based access for Job Seekers and Recruiters, featuring ATS scoring and skill matching using Gemini AI.",
+  "requestFramePermissions": []
+}
